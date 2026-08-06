@@ -1,0 +1,6 @@
+{
+  "name": "Stream & Download",
+  "description": "Stream and download high-quality 320kbps MP3 music, songs, albums, and playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_API"]
+}
